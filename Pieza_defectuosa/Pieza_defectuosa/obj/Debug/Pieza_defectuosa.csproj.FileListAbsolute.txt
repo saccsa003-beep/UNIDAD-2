@@ -1,0 +1,7 @@
+C:\Users\saccs\source\repos\Pieza_defectuosa\Pieza_defectuosa\bin\Debug\Pieza_defectuosa.exe.config
+C:\Users\saccs\source\repos\Pieza_defectuosa\Pieza_defectuosa\bin\Debug\Pieza_defectuosa.exe
+C:\Users\saccs\source\repos\Pieza_defectuosa\Pieza_defectuosa\bin\Debug\Pieza_defectuosa.pdb
+C:\Users\saccs\source\repos\Pieza_defectuosa\Pieza_defectuosa\obj\Debug\Pieza_defectuosa.csproj.AssemblyReference.cache
+C:\Users\saccs\source\repos\Pieza_defectuosa\Pieza_defectuosa\obj\Debug\Pieza_defectuosa.csproj.CoreCompileInputs.cache
+C:\Users\saccs\source\repos\Pieza_defectuosa\Pieza_defectuosa\obj\Debug\Pieza_defectuosa.exe
+C:\Users\saccs\source\repos\Pieza_defectuosa\Pieza_defectuosa\obj\Debug\Pieza_defectuosa.pdb

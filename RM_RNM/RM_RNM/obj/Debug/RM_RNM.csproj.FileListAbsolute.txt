@@ -1,0 +1,7 @@
+C:\Users\saccs\source\repos\RM_RNM\RM_RNM\bin\Debug\RM_RNM.exe.config
+C:\Users\saccs\source\repos\RM_RNM\RM_RNM\bin\Debug\RM_RNM.exe
+C:\Users\saccs\source\repos\RM_RNM\RM_RNM\bin\Debug\RM_RNM.pdb
+C:\Users\saccs\source\repos\RM_RNM\RM_RNM\obj\Debug\RM_RNM.csproj.AssemblyReference.cache
+C:\Users\saccs\source\repos\RM_RNM\RM_RNM\obj\Debug\RM_RNM.csproj.CoreCompileInputs.cache
+C:\Users\saccs\source\repos\RM_RNM\RM_RNM\obj\Debug\RM_RNM.exe
+C:\Users\saccs\source\repos\RM_RNM\RM_RNM\obj\Debug\RM_RNM.pdb
